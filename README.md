@@ -1,5 +1,7 @@
 # Desknotify
 
+![](https://img.shields.io/badge/desknotify-v1.0.0-green.svg)
+
 Desktop notifications for Node.js as both: API and CLI (command-line interface). 
 
 For **Windows, Mac** and obviously **Linux**.
@@ -160,5 +162,6 @@ Desknotify is only a wrapper of various (lots, in fact) (nested) pieces of softw
 ## 6. Thanks
 
 Thanks to all the developers that have contributed somehow for this module to be possible.# Read this file
+# Read this file
 # Read this file
 # Read this file
